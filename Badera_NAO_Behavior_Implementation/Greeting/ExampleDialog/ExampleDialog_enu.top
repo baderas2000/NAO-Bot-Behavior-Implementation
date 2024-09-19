@@ -1,0 +1,6 @@
+topic: ~ExampleDialog()
+language: enu
+
+u:(Morning.) Good morning! How are you?
+u:(Good. How are you?) I am great. Excited about the workshop.
+u: (Me as well.) Lets start then! $onStopped=1
